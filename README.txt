@@ -9,6 +9,8 @@ set up to smoothly transition to secondary landing pages (for which a separate p
 template is provided), and includes a number of neat effects (check out the menu!),
 extra features, and all the usual stuff you'd expect. Hope you dig it!
 
+This template has been updated for a farm and farmer's markety delivery website where users can place orders, track crop production and contact the business for inquiries.
+
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
 
